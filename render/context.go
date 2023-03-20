@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/osteele/liquid/expressions"
+	"github.com/massdriver-cloud/liquid/expressions"
 )
 
 // Context provides the rendering context for a tag renderer.

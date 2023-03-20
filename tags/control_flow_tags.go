@@ -3,9 +3,9 @@ package tags
 import (
 	"io"
 
-	e "github.com/osteele/liquid/expressions"
-	"github.com/osteele/liquid/render"
-	"github.com/osteele/liquid/values"
+	e "github.com/massdriver-cloud/liquid/expressions"
+	"github.com/massdriver-cloud/liquid/render"
+	"github.com/massdriver-cloud/liquid/values"
 )
 
 type caseInterpreter interface {

@@ -14,7 +14,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/osteele/liquid/values"
+	"github.com/massdriver-cloud/liquid/values"
 	"github.com/osteele/tuesday"
 )
 

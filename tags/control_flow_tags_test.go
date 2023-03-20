@@ -7,8 +7,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/osteele/liquid/parser"
-	"github.com/osteele/liquid/render"
+	"github.com/massdriver-cloud/liquid/parser"
+	"github.com/massdriver-cloud/liquid/render"
 	"github.com/stretchr/testify/require"
 )
 
